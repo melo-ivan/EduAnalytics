@@ -68,3 +68,51 @@ EduAnalytics/
 ├── package.json               # Dependências e scripts
 ├── LICENSE                    # Licença MIT
 └── README.md                  # Este arquivo
+
+Como Executar o Projeto
+✅ Pré-requisitos
+Node.js (versão 16 ou superior)
+
+npm ou yarn
+
+🧪 Passo a passo
+1. Clone o repositório
+git clone https://github.com/melo-ivan/EduAnalytics.git
+cd EduAnalytics
+2. Instale as dependências
+npm install
+# ou
+yarn install
+3. Inicie o servidor de desenvolvimento
+4. Acesse o navegador em:
+http://localhost:5173
+
+Contribuição
+Contribuições são bem-vindas!
+Se você quiser melhorar algo, siga estes passos:
+# Fork o repositório
+# Crie uma branch:
+git checkout -b minha-melhoria
+
+# Commit suas alterações:
+git commit -m 'minha melhoria'
+
+# Envie para o repositório remoto:
+git push origin minha-melhoria
+Depois, abra um Pull Request aqui no GitHub.
+👤 Autor
+Desenvolvido por Ivan Melo
+🔗 GitHub: @melo-ivan
+
+📄 Licença
+Este projeto está sob a licença MIT.
+Consulte o arquivo LICENSE para mais detalhes.
+
+📢 Agradecimentos
+Comunidade React
+Tailwind Labs
+Equipe do Vite
+Desenvolvedores de ferramentas open source
+
+© 2025 — EduAnalytics – Sistema de Análise Educacional
+Projeto open source desenvolvido com ❤️ usando React, TypeScript, Vite e TailwindCSS.
