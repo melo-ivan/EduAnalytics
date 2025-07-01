@@ -69,25 +69,38 @@ EduAnalytics/
 ├── LICENSE                    # Licença MIT
 └── README.md                  # Este arquivo
 
-Como Executar o Projeto
-✅ Pré-requisitos
-Node.js (versão 16 ou superior)
+## 🚀 Como Executar o Projeto
 
-npm ou yarn
+### ✅ Pré-requisitos
 
-🧪 Passo a passo
-1. Clone o repositório
+- [Node.js](https://nodejs.org/) (versão 16 ou superior)
+- [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/)
+
+---
+
+### 🧪 Passo a Passo
+
+1. **Clone o repositório**
+
+```bash
 git clone https://github.com/melo-ivan/EduAnalytics.git
 cd EduAnalytics
-2. Instale as dependências
+
+2. **Instale as dependências**
 npm install
 # ou
 yarn install
-3. Inicie o servidor de desenvolvimento
-4. Acesse o navegador em:
+
+3. **Inicie o servidor de desenvolvimento**
+npm run dev
+# ou
+yarn dev
+
+4. **Acesse o navegador em:**
 http://localhost:5173
 
-Contribuição
+
+**Contribuição**
 Contribuições são bem-vindas!
 Se você quiser melhorar algo, siga estes passos:
 # Fork o repositório
@@ -101,7 +114,7 @@ git commit -m 'minha melhoria'
 git push origin minha-melhoria
 Depois, abra um Pull Request aqui no GitHub.
 👤 Autor
-Desenvolvido por Ivan Melo
+Desenvolvido por **Ivan Melo**
 🔗 GitHub: @melo-ivan
 
 📄 Licença
