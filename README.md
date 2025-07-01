@@ -11,48 +11,39 @@
 
 ## 🔮 Sobre o Projeto
 
-EduAnalytics é uma aplicação web moderna para visualização de dashboards, relatórios analíticos e previsões de dados educacionais. Desenvolvida com foco em alta performance e experiência do usuário, utiliza as tecnologias React, TypeScript, Vite e TailwindCSS para garantir um desenvolvimento ágil e um produto final responsivo e elegante.
-
-Esta aplicação pode ser utilizada para análise visual de dados em ambientes educacionais, ajudando na tomada de decisão através de gráficos e relatórios dinâmicos.
+EduAnalytics é uma aplicação web moderna para visualização de dashboards, relatórios analíticos e previsões de dados educacionais. Desenvolvida com foco em alta performance e experiência do usuário, utiliza React, TypeScript, Vite e TailwindCSS para garantir um produto final responsivo, elegante e acessível.
 
 ---
 
 ## 🌐 Visualização Online
 
-Você pode acessar o projeto rodando na web através do link:
-
+Acesse o projeto online em:  
 [https://starlit-empanada-8bf32f.netlify.app](https://starlit-empanada-8bf32f.netlify.app)
 
 ---
 
-## 🧱 Tecnologias Utilizadas
+## 🚀 Como Executar
 
-- React – Biblioteca para construção da interface do usuário.
-- TypeScript – Superset de JavaScript com tipagem estática, para maior segurança e manutenção.
-- Vite – Bundler e servidor de desenvolvimento rápido.
-- Tailwind CSS – Framework CSS utilitário para estilização rápida e responsiva.
-- ESLint – Ferramenta para análise estática do código e manutenção de padrões.
-- PostCSS – Para processamento avançado de CSS.
+(segue igual às instruções anteriores para clonar, instalar, rodar)
 
 ---
 
-## 📂 Estrutura de Diretórios
+## 🧩 Scripts
 
-```plaintext
-EduAnalytics/
-├── public/                  # Arquivos estáticos públicos
-│   └── index.html           # Arquivo HTML principal
-├── src/                     # Código-fonte da aplicação
-│   ├── components/          # Componentes reutilizáveis (Header, Footer, ProjectCard etc.)
-│   ├── pages/               # Páginas ou views principais (Dashboard, Reports, Predictions etc.)
-│   ├── styles/              # Estilos globais e específicos (index.css, Tailwind config)
-│   ├── utils/               # Funções auxiliares e helpers
-│   ├── App.tsx              # Componente raiz
-│   └── main.tsx             # Ponto de entrada da aplicação
-├── .gitignore               # Arquivos ignorados pelo Git
-├── package.json             # Dependências e scripts
-├── vite.config.ts           # Configurações do Vite
-├── tsconfig.json            # Configurações do TypeScript
-├── tailwind.config.js       # Configuração do TailwindCSS
-├── postcss.config.js        # Configuração do PostCSS
-└── README.md                # Documentação do projeto
+(igual)
+
+---
+
+## 🛠 Melhorias Futuras
+
+- Testes end-to-end (Cypress)
+- Internacionalização
+- CI/CD avançado
+- PWA e offline support
+- Autenticação
+
+---
+
+## 🤝 Contato e Licença
+
+(igual)
