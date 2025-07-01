@@ -10,7 +10,7 @@
 
 ## 🔮 Sobre o Projeto
 
-**EduAnalytics** é uma aplicação web moderna para visualização de dashboards, relatórios analíticos e previsões de dados educacionais. Desenvolvida com foco em alta performance e experiência do usuário, utiliza as tecnologias React, TypeScript, Vite e TailwindCSS para garantir um desenvolvimento ágil e um produto final responsivo e elegante.
+EduAnalytics é uma aplicação web moderna para visualização de dashboards, relatórios analíticos e previsões de dados educacionais. Desenvolvida com foco em alta performance e experiência do usuário, utiliza as tecnologias React, TypeScript, Vite e TailwindCSS para garantir um desenvolvimento ágil e um produto final responsivo e elegante.
 
 Esta aplicação pode ser utilizada para análise visual de dados em ambientes educacionais, ajudando na tomada de decisão através de gráficos e relatórios dinâmicos.
 
@@ -18,12 +18,12 @@ Esta aplicação pode ser utilizada para análise visual de dados em ambientes e
 
 ## 🧱 Tecnologias Utilizadas
 
-- **React** – Biblioteca para construção da interface do usuário.
-- **TypeScript** – Superset de JavaScript com tipagem estática, para maior segurança e manutenção.
-- **Vite** – Bundler e servidor de desenvolvimento rápido.
-- **Tailwind CSS** – Framework CSS utilitário para estilização rápida e responsiva.
-- **ESLint** – Ferramenta para análise estática do código e manutenção de padrões.
-- **PostCSS** – Para processamento avançado de CSS.
+- React – Biblioteca para construção da interface do usuário.
+- TypeScript – Superset de JavaScript com tipagem estática, para maior segurança e manutenção.
+- Vite – Bundler e servidor de desenvolvimento rápido.
+- Tailwind CSS – Framework CSS utilitário para estilização rápida e responsiva.
+- ESLint – Ferramenta para análise estática do código e manutenção de padrões.
+- PostCSS – Para processamento avançado de CSS.
 
 ---
 
