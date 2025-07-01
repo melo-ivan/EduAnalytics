@@ -12,4 +12,24 @@ Este projeto é uma aplicação moderna desenvolvida com React, TypeScript, Vite
 - ✅ **ESLint** – Linter para manter a qualidade do código
 
 ## 📁 Estrutura de Diretórios
+📁 src/
+  ├── components/
+  │   ├── About.tsx
+  │   ├── Analytics.tsx
+  │   └── (...outros)
+  ├── App.tsx
+  ├── Projects.tsx
+  ├── Reports.tsx
+  ├── index.css
+  ├── main.tsx
+  └── vite-env.d.ts
+
+📄 index.html
+📄 package.json
+📄 package-lock.json
+📄 vite.config.ts
+📄 tailwind.config.js
+📄 tsconfig.json
+📄 .gitignore
+📄 README.md
 
