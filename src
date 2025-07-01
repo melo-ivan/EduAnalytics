@@ -1,0 +1,113 @@
+/// Estrutura completa da pasta src para o seu projeto
+
+// src/components/About.tsx
+export default function About() {
+  return <section>Sobre nós</section>;
+}
+
+// src/components/Analytics.tsx
+export default function Analytics() {
+  return <section>Análises e Métricas</section>;
+}
+
+// src/components/Contact.tsx
+export default function Contact() {
+  return <section>Contato</section>;
+}
+
+// src/components/Dashboard.tsx
+export default function Dashboard() {
+  return <section>Dashboard com dados</section>;
+}
+
+// src/components/Footer.tsx
+export default function Footer() {
+  return <footer>Rodapé</footer>;
+}
+
+// src/components/Header.tsx
+export default function Header() {
+  return <header>Topo do site</header>;
+}
+
+// src/components/Hero.tsx
+export default function Hero() {
+  return <section>Seção principal (Hero)</section>;
+}
+
+// src/components/Predictions.tsx
+export default function Predictions() {
+  return <section>Previsões</section>;
+}
+
+// src/components/ProjectCard.tsx
+export default function ProjectCard() {
+  return <div>Card de Projeto</div>;
+}
+
+// src/Projects.tsx
+import ProjectCard from './components/ProjectCard';
+export default function Projects() {
+  return (
+    <section>
+      <h2>Projetos</h2>
+      <ProjectCard />
+    </section>
+  );
+}
+
+// src/Reports.tsx
+export default function Reports() {
+  return <section>Relatórios Detalhados</section>;
+}
+
+// src/App.tsx
+import Header from './components/Header';
+import Hero from './components/Hero';
+import About from './components/About';
+import Analytics from './components/Analytics';
+import Projects from './Projects';
+import Predictions from './components/Predictions';
+import Reports from './Reports';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
+
+function App() {
+  return (
+    <div className="font-sans">
+      <Header />
+      <Hero />
+      <About />
+      <Analytics />
+      <Projects />
+      <Predictions />
+      <Reports />
+      <Contact />
+      <Footer />
+    </div>
+  );
+}
+
+export default App;
+
+// src/index.css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* estilos adicionais podem ir aqui */
+
+// src/main.tsx
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './App';
+import './index.css';
+
+ReactDOM.createRoot(document.getElementById('root')!).render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
+
+// src/vite-env.d.ts
+/// <reference types="vite/client" />
