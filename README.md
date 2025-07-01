@@ -5,6 +5,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.9-blue.svg)
 ![Vite](https://img.shields.io/badge/Vite-4.0.0-yellow.svg)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0-green.svg)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://starlit-empanada-8bf32f.netlify.app)
 
 ---
 
@@ -13,6 +14,14 @@
 EduAnalytics é uma aplicação web moderna para visualização de dashboards, relatórios analíticos e previsões de dados educacionais. Desenvolvida com foco em alta performance e experiência do usuário, utiliza as tecnologias React, TypeScript, Vite e TailwindCSS para garantir um desenvolvimento ágil e um produto final responsivo e elegante.
 
 Esta aplicação pode ser utilizada para análise visual de dados em ambientes educacionais, ajudando na tomada de decisão através de gráficos e relatórios dinâmicos.
+
+---
+
+## 🌐 Visualização Online
+
+Você pode acessar o projeto rodando na web através do link:
+
+[https://starlit-empanada-8bf32f.netlify.app](https://starlit-empanada-8bf32f.netlify.app)
 
 ---
 
