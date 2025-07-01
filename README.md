@@ -114,7 +114,7 @@ git commit -m 'minha melhoria'
 git push origin minha-melhoria
 Depois, abra um Pull Request aqui no GitHub.
 👤 Autor
-Desenvolvido por **Ivan Melo**
+Desenvolvido por Ivan Melo
 🔗 GitHub: @melo-ivan
 
 📄 Licença
